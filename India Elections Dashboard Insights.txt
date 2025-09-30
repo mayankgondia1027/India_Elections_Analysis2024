@@ -49,3 +49,4 @@ Python (Pandas, NumPy, Matplotlib, Seaborn) SQL Power BI Excel
 ✔Understand alliance dynamics for future coalitions (e.g., incentivize regional tie-ups).
 ✔Strengthen voter outreach in underperforming states via data-driven policies.
 ✔Promote transparency and democracy through interactive visualization.
+
